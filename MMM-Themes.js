@@ -24,7 +24,15 @@ Module.register("MMM-Themes", {
 			items: 14,
 			iconClassName: "valentine-heart",
 			jiggleClassName: "heart"
+		},
+		snow: {
+			wrapper: "snow-wrapper",
+			items: 2,
+			iconClassName: "snow-flake",
+			jiggleClassName: "flake"
 		}
+
+
 	},
 
 	getStyles: function() {
