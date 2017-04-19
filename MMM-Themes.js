@@ -30,9 +30,13 @@ Module.register("MMM-Themes", {
 			items: 2,
 			iconClassName: "snow-flake",
 			jiggleClassName: "flake"
+		},
+		saint_patrick: {
+			wrapper: "patrick-wrapper",
+			items: 14,
+			iconClassName: "saint-patrick",
+			jiggleClassName: "patrick"
 		}
-
-
 	},
 
 	getStyles: function() {
