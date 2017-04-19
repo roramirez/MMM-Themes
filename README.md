@@ -29,4 +29,4 @@ var config = {
 |------------ |-----------
 | `count`     | The number theme icons to fall. More icons are havier for the cpu, so don't go wild. <br><b>Default value:</b> <code>10</code>
 | `size`      | Scale ratio for each icon, to help adjustments for different screen resolutions. <br><b>Default value:</b> <code>1.00</code>
-| `theme`     | The theme name to show. Availables `valentine`<br> <b>Default:</b><code>valentine</code>
+| `theme`     | The theme name to show. Availables `valentine`, `snow` and `saint_patrick`<br> <b>Default:</b><code>snow</code>

@@ -12,7 +12,7 @@ Module.register("MMM-Themes", {
 	defaults: {
 		count: 10,
 		size: 1.00,
-		theme: "valentine",
+		theme: "snow",
 	},
 
 	requiresVersion: "2.1.0", // Required version of MagicMirror
